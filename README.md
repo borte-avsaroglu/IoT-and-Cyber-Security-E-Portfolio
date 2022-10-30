@@ -10,3 +10,14 @@ This is an article I created by examining the article about digital enterprise w
 By answering the questions and I expressed my thoughts about the ***"Energy Crisis"*** experienced around the world in 2022.
 You can review the ***"week1"*** documentation to review all of my work.
 
+## Week 2:
+I worked on ***Scanning Activities*** and I learned what these commands are and how they work;
+- tracet
+- ing
+- nslookup
+- whois
+- ipconfig
+- nmap
+
+ I learned that we need to install some packages in order to run some of these commands in *windows command prompt*, and I also experienced running them in the *terminal in the linux operating system.* At the end of this chapter, I stated the difficulties I had, how I overcame them, and my *final report on the scanning activity.*
+You can review the ***"week2"*** documentation to review all of my work.
