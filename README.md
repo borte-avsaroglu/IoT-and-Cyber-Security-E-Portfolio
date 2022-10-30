@@ -8,3 +8,5 @@ This is an article I created by examining the article about digital enterprise w
 - What are the cyber security challenges for a *bricks and mortar SME wanting to become* a digital enterprise?
 
 By answering the questions and I expressed my thoughts about the ***"Energy Crisis"*** experienced around the world in 2022.
+You can review the ***"week1"*** documentation to review all of my work.
+
