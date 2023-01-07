@@ -34,7 +34,7 @@ Cloud platforms are becoming a very common commodity in the digital system. What
 
 **Answer:**
 
-Cloud storage refers to the practice of storing data on a remote server accessed via the internet, rather than on a local server or personal device. It offers numerous benefits, including cost savings, flexibility, scalability, and increased collaboration. However, there are also potential security risks to consider when using cloud storage, such as the possibility of data breaches, loss of control over data, and vendor lock-in. It is important for organizations to carefully consider these risks and choose a reputable and secure provider.
+Cloud storage refers to the practice of storing data on a remote server accessed via the internet, rather than on a local server or personal device. It offers numerous benefits, including cost savings, flexibility, scalability, and increased collaboration. However, there are also potential security risks to consider when using cloud storage, such as the possibility of data breaches, loss of control over data, and vendor lock-in. It is important for organizations to carefully consider these risks and choose a reputable and secure provider...
 
 #### Activity 2:
 
@@ -50,7 +50,7 @@ In 2017 a ransomware termed as WannaCry unleased its malicious attack on a globa
 - Isolate the system from the rest of the network
 - Use a VPN when connecting to the internet
 - Consider switching to a supported operating system
-- Use security software specifically designed to protect against legacy software vulnerabilities
+- Use security software specifically designed to protect against legacy software vulnerabilities..
 
 #### Activity 3:
 
@@ -60,12 +60,16 @@ Why is it important to have a backup system in place that works closely with cyb
 
 **Answer:**
 
-A backup system is a way to protect data against loss due to various causes, including cyber attacks. It is closely related to cyber security in that both are focused on protecting data and ensuring its availability. To create a backup system for a personal computer, one can choose a backup method (such as an external hard drive or cloud-based service), set it up, test it, schedule regular backups, and keep it up to date by periodically reviewing the data being backed up.
+A backup system is a way to protect data against loss due to various causes, including cyber attacks. It is closely related to cyber security in that both are focused on protecting data and ensuring its availability. To create a backup system for a personal computer, one can choose a backup method (such as an external hard drive or cloud-based service), set it up, test it, schedule regular backups, and keep it up to date by periodically reviewing the data being backed up...
 
 ## Week 3-4
 
-I did research on Cyber Kill Chain in Week 3-4. I researched the 7 steps of this model and wrote a report containing them. You can access this entire report from the ***"CyberKillChain"*** file under the ***"Week3-4"*** file.
+I did research on Cyber Kill Chain in Week 3-4. I researched the 7 steps of this model and wrote a report containing them. Besides these, I wrote a report on the article "A Worst Nightmare Cyberattack: The Untold Story Of The SolarWinds Hack". You can access these entire reports from the ***"Worst-Nightmare-CyberAttack"*** file and ***"CyberKillChain"*** file under the ***"Week3-4"*** file.
 
 **What is The Cyber Kill Chain?**
 
-The cyber kill chain is a model that describes the steps that an attacker goes through in a cyber attack, from initial reconnaissance to the achievement of their goals. It consists of seven stages: reconnaissance, weaponization, delivery, exploitation, installation, command and control, and actions on objectives. Understanding the cyber kill chain can help organizations develop strategies to detect and prevent attacks at various stages.
+The cyber kill chain is a model that describes the steps that an attacker goes through in a cyber attack, from initial reconnaissance to the achievement of their goals. It consists of seven stages: reconnaissance, weaponization, delivery, exploitation, installation, command and control, and actions on objectives. Understanding the cyber kill chain can help organizations develop strategies to detect and prevent attacks at various stages...
+
+**A 'Worst Nightmare' Cyberattack:**
+
+The SolarWinds hack was a true worst nightmare for many organizations and individuals. The fact that the attack went undetected for so long was particularly alarming, as it gave the hackers ample time to infiltrate the networks of some of the most well-protected organizations in the world and gather sensitive information. The impact of the hack was far-reaching and had serious national security implications, as it gave the hackers access to sensitive government systems and information...
