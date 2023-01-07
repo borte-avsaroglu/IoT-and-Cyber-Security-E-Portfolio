@@ -73,3 +73,15 @@ The cyber kill chain is a model that describes the steps that an attacker goes t
 **A 'Worst Nightmare' Cyberattack:**
 
 The SolarWinds hack was a true worst nightmare for many organizations and individuals. The fact that the attack went undetected for so long was particularly alarming, as it gave the hackers ample time to infiltrate the networks of some of the most well-protected organizations in the world and gather sensitive information. The impact of the hack was far-reaching and had serious national security implications, as it gave the hackers access to sensitive government systems and information...
+
+## Week 4-5
+
+In Week 4-5, I did research and applications about Kali Linux and wrote a report about it. Besides, I researched and wrote a report about Solar winds exploit using the Cyber Kill Chain. Although I will briefly talk about these in this section, you can find the full versions of the two reports under the ***"Week4-5"*** file, in the ***"Kali-Linux"*** and ***"Solar-Winds"*** Files.
+
+**What is Kali Linux and Why people use Kali?**
+
+Kali Linux is a security-focused operating system that comes pre-installed with a wide range of tools and utilities for digital forensics, penetration testing, and other security-related tasks. It is popular among cybersecurity professionals and enthusiasts because of the comprehensive set of tools it provides, as well as its flexibility and customization options...
+
+**Solar Winds exploit using the Cyber Kill Chain:**
+
+Certainly! The SolarWinds exploit refers to a sophisticated cyberattack that was discovered in December 2020, in which hackers compromised the update process of SolarWinds' Orion software, a widely used IT management tool. The hackers then used the software to gain access to the networks of various government agencies and private companies, including the Department of Homeland Security and the Department of Energy...
