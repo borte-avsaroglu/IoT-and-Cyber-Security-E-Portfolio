@@ -85,3 +85,14 @@ Kali Linux is a security-focused operating system that comes pre-installed with 
 **Solar Winds exploit using the Cyber Kill Chain:**
 
 Certainly! The SolarWinds exploit refers to a sophisticated cyberattack that was discovered in December 2020, in which hackers compromised the update process of SolarWinds' Orion software, a widely used IT management tool. The hackers then used the software to gain access to the networks of various government agencies and private companies, including the Department of Homeland Security and the Department of Energy...
+
+## Week 5-6
+
+In Week 5-6, I did research on DoS Attack and simulated it. Then I wrote a report on this topic. The summary of the report is in this section. You can access the full version from the ***"DoS-Attack"*** file under the ***"Week5-6"*** file.
+
+**DoS (Denial of Service) attack:**
+- A DoS attack is a type of cyberattack that aims to make a computer or network resource unavailable to its intended users.
+- DoS attacks can be carried out using a single device or multiple devices, and can target a specific service or the entire network.
+- DoS attacks can be very disruptive and can cause serious harm to individuals and organizations by preventing access to necessary resources.
+- To protect against DoS attacks, it is important to implement security measures such as firewalls, intrusion detection and prevention systems, and load balancers.
+- It is illegal and unethical to engage in DoS attacks, and it is important to respect the rights and privacy of others when using the Internet...
