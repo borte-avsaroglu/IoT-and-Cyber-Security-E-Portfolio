@@ -88,7 +88,7 @@ Certainly! The SolarWinds exploit refers to a sophisticated cyberattack that was
 
 ## Week 5-6
 
-5-6. I researched and simulated DoS Attack and Honeypot for weeks. Then I wrote a report on this topic. The summary of the report is in this section. You can access the full version from the ***"DoS-Attack"*** and ***"Honeypot"*** files under the ***"Week5-6"*** file.
+5-6. I researched and simulated DoS Attack, Honeypot and Port Security for weeks. Then I wrote a report on these topics. The summary of the report is in this section. You can access the full version from the ***"DoS-Attack"*** , ***"Honeypot"*** and ***Port-Security*** files under the ***"Week5-6"*** file.
 
 **DoS (Denial of Service) attack:**
 
@@ -101,3 +101,9 @@ Certainly! The SolarWinds exploit refers to a sophisticated cyberattack that was
 **What is a Honeypot?**
 
 A honeypot is a network-attached system set up to act as a decoy, luring in potential attackers to reveal their malicious activity and provide an opportunity for organizations to observe and track them...
+
+**What is Port Security?**
+
+- Point security refers to a security system that is designed to protect a specific location or entry point.
+- Port security refers to a security measure that is designed to protect ports and other marine facilities from security threats.
+- Both point security and port security involve the use of physical barriers, security personnel, and security technology to prevent unauthorized access and ensure the safety and security of people and cargo.
