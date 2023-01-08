@@ -88,7 +88,7 @@ Certainly! The SolarWinds exploit refers to a sophisticated cyberattack that was
 
 ## Week 5-6
 
-5-6. I researched and simulated DoS Attack, Honeypot and Port Security for weeks. Then I wrote a report on these topics. The summary of the report is in this section. You can access the full version from the ***"DoS-Attack"*** , ***"Honeypot"*** and ***Port-Security*** files under the ***"Week5-6"*** file.
+In Week 5-6. I researched and simulated DoS Attack, Honeypot and Port Security for weeks. Then I wrote a report on these topics. The summary of the report is in this section. You can access the full version from the ***"DoS-Attack"*** , ***"Honeypot"*** and ***Port-Security*** files under the ***"Week5-6"*** file.
 
 **DoS (Denial of Service) attack:**
 
@@ -107,3 +107,11 @@ A honeypot is a network-attached system set up to act as a decoy, luring in pote
 - Point security refers to a security system that is designed to protect a specific location or entry point.
 - Port security refers to a security measure that is designed to protect ports and other marine facilities from security threats.
 - Both point security and port security involve the use of physical barriers, security personnel, and security technology to prevent unauthorized access and ensure the safety and security of people and cargo.
+
+## Week 6-7
+
+In Week 6-7. I researched and Man in the Middle Attack(MITM). Then I wrote a report on this topic. The summary of the report is in this section. You can access the full version from the ***MITM-Attack*** file under the ***"Week6-7"*** file.
+
+**MITM Attack:**
+
+A man-in-the-middle (MITM) attack is a type of cyber attack in which an attacker intercepts communication between two parties and pretends to be one of them to the other. This allows the attacker to see and potentially modify the communication, as well as trick the parties into thinking they are communicating directly with each other. MITM attacks can be difficult to detect and prevent, and can have serious consequences if they are successful. To protect against MITM attacks, it is important to use secure protocols for communication, such as HTTPS, and to take other measures such as using strong passwords and two-factor authentication, being cautious about connecting to unknown networks or devices, and using a firewall and antivirus software...
