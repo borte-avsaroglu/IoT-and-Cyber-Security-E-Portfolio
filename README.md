@@ -1,6 +1,8 @@
-# IOT & Cyber Security
+
+![Preview Image](https://www.diligent.com/-/media/project/diligent/master/insights/articles/uploaded/board-members-need-to-take-iot-cybersecurity-more-seriously.jpg)
+# IoT & Cyber Security
 >My purpose of creating this repository is to create an e-portfolio of the lab works I have been working on and what I have done from week to week for the *Iot and cyber security* course I have taken.
-## Week 1-2
+## [Week 1-2](https://github.com/borte-avsaroglu/IoT-and-Cyber-Security-E-Portfolio/tree/main/Week1-2)
 ### Week 1:
 This is an article I created by examining the article about digital enterprise written by *Wei et al and Spremic*. Besides;
 
@@ -62,7 +64,7 @@ Why is it important to have a backup system in place that works closely with cyb
 
 A backup system is a way to protect data against loss due to various causes, including cyber attacks. It is closely related to cyber security in that both are focused on protecting data and ensuring its availability. To create a backup system for a personal computer, one can choose a backup method (such as an external hard drive or cloud-based service), set it up, test it, schedule regular backups, and keep it up to date by periodically reviewing the data being backed up...
 
-## Week 3-4
+## [Week 3-4](https://github.com/borte-avsaroglu/IoT-and-Cyber-Security-E-Portfolio/tree/main/Week3-4)
 
 I did research on Cyber Kill Chain in Week 3-4. I researched the 7 steps of this model and wrote a report containing them. Besides these, I wrote a report on the article "A Worst Nightmare Cyberattack: The Untold Story Of The SolarWinds Hack". You can access these entire reports from the ***"Worst-Nightmare-CyberAttack"*** file and ***"CyberKillChain"*** file under the ***"Week3-4"*** file.
 
@@ -74,7 +76,7 @@ The cyber kill chain is a model that describes the steps that an attacker goes t
 
 The SolarWinds hack was a true worst nightmare for many organizations and individuals. The fact that the attack went undetected for so long was particularly alarming, as it gave the hackers ample time to infiltrate the networks of some of the most well-protected organizations in the world and gather sensitive information. The impact of the hack was far-reaching and had serious national security implications, as it gave the hackers access to sensitive government systems and information...
 
-## Week 4-5
+## [Week 4-5](https://github.com/borte-avsaroglu/IoT-and-Cyber-Security-E-Portfolio/tree/main/Week4-5)
 
 In Week 4-5, I did research and applications about Kali Linux and wrote a report about it. Besides, I researched and wrote a report about Solar winds exploit using the Cyber Kill Chain. Although I will briefly talk about these in this section, you can find the full versions of the two reports under the ***"Week4-5"*** file, in the ***"Kali-Linux"*** and ***"Solar-Winds"*** Files.
 
@@ -86,7 +88,7 @@ Kali Linux is a security-focused operating system that comes pre-installed with 
 
 Certainly! The SolarWinds exploit refers to a sophisticated cyberattack that was discovered in December 2020, in which hackers compromised the update process of SolarWinds' Orion software, a widely used IT management tool. The hackers then used the software to gain access to the networks of various government agencies and private companies, including the Department of Homeland Security and the Department of Energy...
 
-## Week 5-6
+## [Week 5-6](https://github.com/borte-avsaroglu/IoT-and-Cyber-Security-E-Portfolio/tree/main/Week5-6)
 
 In Week 5-6, I researched and simulated DoS Attack, Honeypot and Port Security for weeks. Then I wrote a report on these topics. The summary of the report is in this section. You can access the full version from the ***"DoS-Attack"*** , ***"Honeypot"*** and ***Port-Security*** files under the ***"Week5-6"*** file.
 
@@ -108,7 +110,7 @@ A honeypot is a network-attached system set up to act as a decoy, luring in pote
 - Port security refers to a security measure that is designed to protect ports and other marine facilities from security threats.
 - Both point security and port security involve the use of physical barriers, security personnel, and security technology to prevent unauthorized access and ensure the safety and security of people and cargo.
 
-## Week 6-7
+## [Week 6-7](https://github.com/borte-avsaroglu/IoT-and-Cyber-Security-E-Portfolio/tree/main/Week6-7)
 
 In Week 6-7, I researched and Man in the Middle Attack(MITM). Then I wrote a report on this topic. The summary of the report is in this section. You can access the full version from the ***MITM-Attack*** file under the ***"Week6-7"*** file.
 
@@ -117,7 +119,7 @@ In Week 6-7, I researched and Man in the Middle Attack(MITM). Then I wrote a rep
 A man-in-the-middle (MITM) attack is a type of cyber attack in which an attacker intercepts communication between two parties and pretends to be one of them to the other. This allows the attacker to see and potentially modify the communication, as well as trick the parties into thinking they are communicating directly with each other. MITM attacks can be difficult to detect and prevent, and can have serious consequences if they are successful. To protect against MITM attacks, it is important to use secure protocols for communication, such as HTTPS, and to take other measures such as using strong passwords and two-factor authentication, being cautious about connecting to unknown networks or devices, and using a firewall and antivirus software...
 
 
-## Week 8-9
+## [Week 8-9](https://github.com/borte-avsaroglu/IoT-and-Cyber-Security-E-Portfolio/tree/main/Week8-9)
 
 In Week 8-9, we had to fill a table about the infrastructures of greenhouses in the context of IoT.  Then I wrote a report on this topic. The summary of the report is in this section. You can access the full version from the **Selecting-IoT-Infrastructure** file under the ***"Week8-9"*** file.
 
@@ -126,9 +128,9 @@ In Week 8-9, we had to fill a table about the infrastructures of greenhouses in 
 An IoT (Internet of Things) infrastructure for a greenhouse refers to the network of sensors, networking devices, and other hardware and software components that are used to monitor and control the greenhouse environment. The goal of an IoT infrastructure for a greenhouse is to optimize plant growth and reduce energy consumption by collecting data on various parameters such as temperature, humidity, soil moisture, and light intensity, and using this data to control the greenhouse environment...
 
 
-## Week 10-11
+## [Week 10-11](https://github.com/borte-avsaroglu/IoT-and-Cyber-Security-E-Portfolio/tree/main/Week10-11)
 
-We attended a seminar on IoT by Babak Reihani, who has extensive experience in this subject, in 28th December 2022. His business offers solutions for smart homes. He brought some products to the lecture to demonstrate their functionality. We are required to write a brief report regarding the seminar at the conclusion of the presentation. The seminar we attended's key elements are only summarized in this report. You can access the full version from the **IoT-Seminar** file under the ***"Week10-11"*** file.
+We attended a seminar on IoT by [Babak Reihani](https://www.instagram.com/cyprus.iot/), who has extensive experience in this subject, in 28th December 2022. His business offers solutions for smart homes. He brought some products to the lecture to demonstrate their functionality. We are required to write a brief report regarding the seminar at the conclusion of the presentation. The seminar we attended's key elements are only summarized in this report. You can access the full version from the **IoT-Seminar** file under the ***"Week10-11"*** file.
 
 **My Reflection for IoT:** 
 The Internet of Things (IoT) is the connection of devices to the internet that allows them to send and receive data. It has had a significant impact on many industries, including manufacturing, healthcare, agriculture, and the smart home. IoT allows for the collection and analysis of data in real-time, enabling more informed decision-making and process optimization. However, there are also security concerns to consider when implementing IoT systems...
