@@ -124,3 +124,11 @@ In Week 8-9, we had to fill a table about the infrastructures of greenhouses in 
 **IOT - Greenhouse Infrastructure:**
 
 An IoT (Internet of Things) infrastructure for a greenhouse refers to the network of sensors, networking devices, and other hardware and software components that are used to monitor and control the greenhouse environment. The goal of an IoT infrastructure for a greenhouse is to optimize plant growth and reduce energy consumption by collecting data on various parameters such as temperature, humidity, soil moisture, and light intensity, and using this data to control the greenhouse environment...
+
+
+## Week 10-11
+
+We attended a seminar on IoT by Babak Reihani, who has extensive experience in this subject, in 28th December 2022. His business offers solutions for smart homes. He brought some products to the lecture to demonstrate their functionality. We are required to write a brief report regarding the seminar at the conclusion of the presentation. The seminar we attended's key elements are only summarized in this report. You can access the full version from the **IoT-Seminar** file under the ***"Week10-11"*** file.
+
+**My Reflection for IoT:** 
+The Internet of Things (IoT) is the connection of devices to the internet that allows them to send and receive data. It has had a significant impact on many industries, including manufacturing, healthcare, agriculture, and the smart home. IoT allows for the collection and analysis of data in real-time, enabling more informed decision-making and process optimization. However, there are also security concerns to consider when implementing IoT systems...
