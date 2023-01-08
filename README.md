@@ -88,7 +88,7 @@ Certainly! The SolarWinds exploit refers to a sophisticated cyberattack that was
 
 ## Week 5-6
 
-In Week 5-6. I researched and simulated DoS Attack, Honeypot and Port Security for weeks. Then I wrote a report on these topics. The summary of the report is in this section. You can access the full version from the ***"DoS-Attack"*** , ***"Honeypot"*** and ***Port-Security*** files under the ***"Week5-6"*** file.
+In Week 5-6, I researched and simulated DoS Attack, Honeypot and Port Security for weeks. Then I wrote a report on these topics. The summary of the report is in this section. You can access the full version from the ***"DoS-Attack"*** , ***"Honeypot"*** and ***Port-Security*** files under the ***"Week5-6"*** file.
 
 **DoS (Denial of Service) attack:**
 
@@ -110,8 +110,17 @@ A honeypot is a network-attached system set up to act as a decoy, luring in pote
 
 ## Week 6-7
 
-In Week 6-7. I researched and Man in the Middle Attack(MITM). Then I wrote a report on this topic. The summary of the report is in this section. You can access the full version from the ***MITM-Attack*** file under the ***"Week6-7"*** file.
+In Week 6-7, I researched and Man in the Middle Attack(MITM). Then I wrote a report on this topic. The summary of the report is in this section. You can access the full version from the ***MITM-Attack*** file under the ***"Week6-7"*** file.
 
 **MITM Attack:**
 
 A man-in-the-middle (MITM) attack is a type of cyber attack in which an attacker intercepts communication between two parties and pretends to be one of them to the other. This allows the attacker to see and potentially modify the communication, as well as trick the parties into thinking they are communicating directly with each other. MITM attacks can be difficult to detect and prevent, and can have serious consequences if they are successful. To protect against MITM attacks, it is important to use secure protocols for communication, such as HTTPS, and to take other measures such as using strong passwords and two-factor authentication, being cautious about connecting to unknown networks or devices, and using a firewall and antivirus software...
+
+
+## Week 8-9
+
+In Week 8-9, we had to fill a table about the infrastructures of greenhouses in the context of IoT.  Then I wrote a report on this topic. The summary of the report is in this section. You can access the full version from the **Selecting-IoT-Infrastructure** file under the ***"Week8-9"*** file.
+
+**IOT - Greenhouse Infrastructure:**
+
+An IoT (Internet of Things) infrastructure for a greenhouse refers to the network of sensors, networking devices, and other hardware and software components that are used to monitor and control the greenhouse environment. The goal of an IoT infrastructure for a greenhouse is to optimize plant growth and reduce energy consumption by collecting data on various parameters such as temperature, humidity, soil moisture, and light intensity, and using this data to control the greenhouse environment...
